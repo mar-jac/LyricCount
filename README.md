@@ -41,7 +41,7 @@ $ Enter song, artist, and filename.
 $ If all goes well, you are done! You should see the changes in the console and go!
 ```
 
-![](https://i.ibb.co/Sdgd0TC/Results.png)
+![BOOM BABY!](https://i.ibb.co/wBhkzFj/Results.png)
 
 
 ### Development
