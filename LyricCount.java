@@ -44,7 +44,7 @@ public class LyricCount {
         HashMap<String, Integer> freq = new HashMap();
         BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
 // Puts together the string that the FileReader will refer to.
-        String fileNameDir = directory+ "\\src\\" + fileName;
+        String fileNameDir = directory + "\\" + fileName;
 
         try {
             FileReader reader = new FileReader(fileNameDir);
